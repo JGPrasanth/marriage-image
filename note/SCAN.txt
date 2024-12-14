@@ -1,0 +1,27 @@
+class Teacher
+{
+ int id;
+ string name;
+ int salary;
+ public static void doJob()
+ {
+  System.out.println("Do job will honest");
+ }
+}
+class TeacherApp
+{
+ public static void main(String[] args)
+ {
+  Scannar Scan =new Scanner(System.in);
+
+  System.out.println("pleace enter id");
+  emp.id=scan.nextint();
+
+  System.out.println();
+  emp.=scan.nextint();
+
+  System.out.println();
+  emp.id=scan.nextint();
+
+  System.out.println();
+  emp.id=scan.nextint();
